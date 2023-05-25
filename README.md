@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liserjrqlxue&repo=filterExcel&locale=cn)](https://github.com/liserjrqlxue/filterExcel)
 
 #### annotation
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liserjrqlxue&repo=ACMGlocalAnno&locale=cn)](https://github.com/liserjrqlxue/ACMGlocalAnno)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liserjrqlxue&repo=PrePregnancyAnno&locale=cn)](https://github.com/liserjrqlxue/PrePregnancyAnno)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liserjrqlxue&repo=acmg2015&locale=cn)](https://github.com/liserjrqlxue/acmg2015)
 
