@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on BGI-tianjin
+- 🔭 I’m currently working on zhonghegene
 - 🌱 I’m currently learning Go
 
 #### github stats
