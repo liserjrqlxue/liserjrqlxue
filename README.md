@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 #### other pinned repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liserjrqlxue&repo=crypto&locale=cn)](https://github.com/liserjrqlxue/crypto)
 
+#### Profile Views
+![getloli](https://count.getloli.com/get/@liserjrqlxue.github.readme)
 
 
 
